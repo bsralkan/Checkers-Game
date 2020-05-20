@@ -10,13 +10,17 @@ checkers Game running on console screen with C++, using random access file and s
 - the player should enter something like this: a2a3 the first 2 character is the source the 2nd 2 characters is destination. So  a2a3 means front row leftmost tile of black will forward one tile.
 
 - firstly created a new game
+
 ![first](1.png)
 
 - white's turn and moved a2a3 
+
 ![second](2.png)
 
 - Black's turn and moved b5b4 
+
 ![second](3.png)
 
 - white's turn and moved a3a5, and capture Black's stamp. 
+
 ![second](4.png)
